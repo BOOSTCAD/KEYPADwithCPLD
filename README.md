@@ -38,10 +38,10 @@ The global clock for CPLD is 50MHz, a prescaler is required to read the data wit
   2) Read inputs row by row and column by column.
   3) Set current line output to 1 (VCC).
 # Software
-Altera QuartusII
+Altera Quartus II
 
 # Hardware
-1. Altera MaxII EPM240T100C5N CPLD Development Board 5V
+1. Altera Max II EPM240T100C5N CPLD Development Board 5V
 2. USB Blaster
 3. Common Cathode BCD 7-segment
 4. 4x4 Matrix Keypad
@@ -61,4 +61,5 @@ Altera QuartusII
 ![binary2BCD](https://user-images.githubusercontent.com/87567016/126034563-dce9bf45-ccaf-4312-9c6c-f463c19b9198.PNG)
 
 4. BCD to 7 segment 
-![bcd2sevenseg](https://user-images.githubusercontent.com/87567016/126034572-22ba6378-5662-4a21-b0d9-d0b5d297b2ee.PNG)
+![bcd2sevenseg](https://user-images.githubusercontent.com/87567016/126034629-e2d1bc44-14bf-4cf8-8ef0-78f32b257ff6.PNG)
+
