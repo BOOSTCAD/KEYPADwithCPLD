@@ -56,25 +56,29 @@ Altera Quartus II
 ![pin planner 2](https://user-images.githubusercontent.com/87567016/126037691-82ac7ce8-5517-4ade-ab35-25584cdcb8bc.jpeg)
 
 # Implementation of Keypad on Password Lock System
-# 1. CU
+# 1. Flowchart 
+![Flowchart-ASM chart](https://user-images.githubusercontent.com/87567016/126037876-7f08659b-248e-44fe-b690-0dc56a99466d.png)
+
+
+# 2. CU
 ![CU1](https://user-images.githubusercontent.com/87567016/126037312-cf7da89d-e3a1-47c3-9024-c8794c1f09f4.PNG)
 ![CU2](https://user-images.githubusercontent.com/87567016/126037319-546c812e-d030-42de-b1db-ff4c436c541f.PNG)
 
 
 
-# 2. DU 
-![shift_reg1](https://user-images.githubusercontent.com/87567016/126037582-67a7ea8d-a803-4f6a-9b43-68bed9c8688d.PNG)
-![shift_reg2](https://user-images.githubusercontent.com/87567016/126037587-73c9cd3d-05ee-4b9f-8be4-fa47c0bd2926.PNG)
-![comparator](https://user-images.githubusercontent.com/87567016/126037599-36f3bfc9-e5a6-4858-925f-c2b1c1dbe697.PNG)
+# 3. DU 
+![shift_reg1](https://user-images.githubusercontent.com/87567016/126037888-42bca0ed-d314-4233-8009-f84f25f7edba.PNG)
+![shift_reg2](https://user-images.githubusercontent.com/87567016/126037893-db9b3f6b-3cd0-4903-a990-96202143b9aa.PNG)
+![comparator](https://user-images.githubusercontent.com/87567016/126037901-2392fe85-d961-49b8-968e-6e00c1353f1b.PNG)
 ![counter](https://user-images.githubusercontent.com/87567016/126037607-c16cadc3-50c4-4fc9-b608-c79fd2724d57.PNG)
 ![Timer](https://user-images.githubusercontent.com/87567016/126037609-238e249f-7d08-4e26-983d-109824693d6a.PNG)
 ![DU](https://user-images.githubusercontent.com/87567016/126037614-997f900d-cd48-46bd-b68a-4744f979b72a.PNG)
 
 
 
-# 3. CU + DU Top Level
+# 4. CU + DU Top Level
 ![CDU](https://user-images.githubusercontent.com/87567016/126037626-06fbf6f0-1e89-4390-b55d-7bad3224dcde.PNG)
 
-# 4. Result 
+# 5. Result 
 ![WhatsApp Image 2021-07-17 at 20 56 28](https://user-images.githubusercontent.com/87567016/126037660-6ec100b0-1242-4b46-9163-fb54b50e6e08.jpeg)
 
