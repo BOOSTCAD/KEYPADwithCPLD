@@ -69,10 +69,10 @@ Altera Quartus II
 # 3. DU 
 ![shift_reg1](https://user-images.githubusercontent.com/87567016/126037888-42bca0ed-d314-4233-8009-f84f25f7edba.PNG)
 ![shift_reg2](https://user-images.githubusercontent.com/87567016/126037893-db9b3f6b-3cd0-4903-a990-96202143b9aa.PNG)
-![comparator](https://user-images.githubusercontent.com/87567016/126037901-2392fe85-d961-49b8-968e-6e00c1353f1b.PNG)
-![counter](https://user-images.githubusercontent.com/87567016/126037607-c16cadc3-50c4-4fc9-b608-c79fd2724d57.PNG)
-![Timer](https://user-images.githubusercontent.com/87567016/126037609-238e249f-7d08-4e26-983d-109824693d6a.PNG)
-![DU](https://user-images.githubusercontent.com/87567016/126037614-997f900d-cd48-46bd-b68a-4744f979b72a.PNG)
+![comparator](https://user-images.githubusercontent.com/87567016/126038020-9550fb96-077c-466f-b02d-b7729e6de156.PNG)
+![counter](https://user-images.githubusercontent.com/87567016/126038022-7e5fa4dd-5925-441e-9ad0-976bb298d536.PNG)
+![Timer](https://user-images.githubusercontent.com/87567016/126038027-be1778df-cffe-48e1-99c7-7dd643713ec1.PNG)
+![DU](https://user-images.githubusercontent.com/87567016/126038033-5e72fe09-4abf-4900-a12a-3c19ab3cdf27.PNG)
 
 
 
