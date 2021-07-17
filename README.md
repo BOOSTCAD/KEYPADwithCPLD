@@ -60,6 +60,7 @@ Altera Quartus II
 ![CU1](https://user-images.githubusercontent.com/87567016/126037312-cf7da89d-e3a1-47c3-9024-c8794c1f09f4.PNG)
 ![CU2](https://user-images.githubusercontent.com/87567016/126037319-546c812e-d030-42de-b1db-ff4c436c541f.PNG)
 
+
 2. DU 
 ![shift_reg1](https://user-images.githubusercontent.com/87567016/126037582-67a7ea8d-a803-4f6a-9b43-68bed9c8688d.PNG)
 ![shift_reg2](https://user-images.githubusercontent.com/87567016/126037587-73c9cd3d-05ee-4b9f-8be4-fa47c0bd2926.PNG)
