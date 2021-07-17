@@ -48,4 +48,17 @@ Altera QuartusII
 5. Breadboard
 6. Male-Male Jumper wire
 
+# Verilog Code for Keypad 
+1. Prescaler
+![slowclock](https://user-images.githubusercontent.com/87567016/126034512-e9173371-ce41-4e92-89e8-7798fd8dd77f.PNG)
 
+2. Keypad Scanner
+![keypad1](https://user-images.githubusercontent.com/87567016/126034544-11353b28-e390-49cb-a1ac-6f23bb1bcb2c.PNG)
+![keypad2](https://user-images.githubusercontent.com/87567016/126034551-50585ee9-f9a9-43c6-9e2f-bd1cc096a22c.PNG)
+![keypad3](https://user-images.githubusercontent.com/87567016/126034555-40e11002-0ec9-415e-9133-e1e87a779fc9.PNG)
+
+3. Binary to BCD Converter
+![binary2BCD](https://user-images.githubusercontent.com/87567016/126034563-dce9bf45-ccaf-4312-9c6c-f463c19b9198.PNG)
+
+4. BCD to 7 segment 
+![bcd2sevenseg](https://user-images.githubusercontent.com/87567016/126034572-22ba6378-5662-4a21-b0d9-d0b5d297b2ee.PNG)
