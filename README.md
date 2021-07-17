@@ -61,6 +61,8 @@ Altera Quartus II
 ![CU2](https://user-images.githubusercontent.com/87567016/126037319-546c812e-d030-42de-b1db-ff4c436c541f.PNG)
 
 
+
+
 2. DU 
 ![shift_reg1](https://user-images.githubusercontent.com/87567016/126037582-67a7ea8d-a803-4f6a-9b43-68bed9c8688d.PNG)
 ![shift_reg2](https://user-images.githubusercontent.com/87567016/126037587-73c9cd3d-05ee-4b9f-8be4-fa47c0bd2926.PNG)
@@ -68,6 +70,8 @@ Altera Quartus II
 ![counter](https://user-images.githubusercontent.com/87567016/126037607-c16cadc3-50c4-4fc9-b608-c79fd2724d57.PNG)
 ![Timer](https://user-images.githubusercontent.com/87567016/126037609-238e249f-7d08-4e26-983d-109824693d6a.PNG)
 ![DU](https://user-images.githubusercontent.com/87567016/126037614-997f900d-cd48-46bd-b68a-4744f979b72a.PNG)
+
+
 
 3. CU + DU Top Level
 ![CDU](https://user-images.githubusercontent.com/87567016/126037626-06fbf6f0-1e89-4390-b55d-7bad3224dcde.PNG)
