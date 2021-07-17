@@ -50,7 +50,8 @@ Altera Quartus II
 6. Male-Male Jumper wire
 
 # Verilog Code for Keypad 
-[finalKeypad.zip](https://github.com/BOOSTCAD/KEYPADwithCPLD/files/6834611/finalKeypad.zip)
+[FinalKeypad.zip](https://github.com/BOOSTCAD/KEYPADwithCPLD/files/6835049/FinalKeypad.zip)
+
 
 ![pin planner 1](https://user-images.githubusercontent.com/87567016/126037687-47eb1786-3a43-48a0-abee-fbace357c03b.jpeg)
 ![pin planner 2](https://user-images.githubusercontent.com/87567016/126037691-82ac7ce8-5517-4ade-ab35-25584cdcb8bc.jpeg)
