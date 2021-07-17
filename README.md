@@ -37,6 +37,7 @@ The global clock for CPLD is 50MHz, a prescaler is required to read the data wit
   1) Set current line output to 0 (ground).
   2) Read inputs row by row and column by column.
   3) Set current line output to 1 (VCC).
+
 # Software
 Altera Quartus II
 
@@ -50,6 +51,9 @@ Altera Quartus II
 
 # Verilog Code for Keypad 
 [finalKeypad.zip](https://github.com/BOOSTCAD/KEYPADwithCPLD/files/6834611/finalKeypad.zip)
+
+![pin planner 1](https://user-images.githubusercontent.com/87567016/126037687-47eb1786-3a43-48a0-abee-fbace357c03b.jpeg)
+![pin planner 2](https://user-images.githubusercontent.com/87567016/126037691-82ac7ce8-5517-4ade-ab35-25584cdcb8bc.jpeg)
 
 # Implementation of Keypad on Password Lock System
 1. CU
@@ -66,4 +70,7 @@ Altera Quartus II
 
 3. CU + DU Top Level
 ![CDU](https://user-images.githubusercontent.com/87567016/126037626-06fbf6f0-1e89-4390-b55d-7bad3224dcde.PNG)
+
+4. Result 
+![WhatsApp Image 2021-07-17 at 20 56 28](https://user-images.githubusercontent.com/87567016/126037660-6ec100b0-1242-4b46-9163-fb54b50e6e08.jpeg)
 
