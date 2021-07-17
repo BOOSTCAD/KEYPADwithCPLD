@@ -1,4 +1,4 @@
-# KEYPADwithCPLD
+# 4x4 KEYPAD with CPLD
 This a project about the setup of keypad on CPLD and the implementation on Password Lock System.
 
 ![NEW-UTM-LOGO-copy](https://user-images.githubusercontent.com/87567016/126034256-73a81f2b-0cd6-4e57-a9a4-7f39ac7daefa.jpg)
